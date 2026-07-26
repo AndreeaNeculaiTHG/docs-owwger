@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-t55dov.radarsatu88.shop/sitemap.xml
